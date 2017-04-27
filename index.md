@@ -34,7 +34,6 @@ email: [segreteria@promo-terr.it](mailto:segreteria@promo-terr.it)
 
 ### Social
 
-* [Contrade San Paolino](http://consanpaolino.org)
 * [Pagina Facebook](https://www.facebook.com/luccamedievale/)
 * [Evento Facebook edizione 2016](https://www.facebook.com/events/1730372070582555/)
 * [YouTube](https://www.youtube.com/playlist?list=PLGmFjg-_N7COfovMy0z5-9uYcLXp1Tec-)
