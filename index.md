@@ -15,7 +15,7 @@ Contatta la segreteria organizzativa Promo-Terr:
 
 tel: 058432256 - 0584428651 
 
-email: segreteria@promo-terr.it
+email: [segreteria@promo-terr.it](mailto:segreteria@promo-terr.it)
 
 ### #luccamedievale su Instagram
 
@@ -25,12 +25,12 @@ email: segreteria@promo-terr.it
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLGmFjg-_N7COfovMy0z5-9uYcLXp1Tec-&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-### Rassegna stampa
+### Rassegna stampa edizione 2016
 
-* http://www.luccaindiretta.it/cultura-e-spettacoli/item/71635-lucca-un-tuffo-nel-medioevo-foto.html
-* http://iltirreno.gelocal.it/lucca/cronaca/2016/05/23/news/lucca-medievale-fra-corteggi-musici-e-balestrieri-1.13526949
-* http://www.lagazzettadilucca.it/index.php/l-evento/2016/06/successo-per-i-due-giorni-di-lucca-medievale/
-* http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/15889
+* [Un tuffo nel medioevo (luccaindiretta)](http://www.luccaindiretta.it/cultura-e-spettacoli/item/71635-lucca-un-tuffo-nel-medioevo-foto.html)
+* [Lucca medievale fra corteggi, musici e balestrieri (iltirreno)](http://iltirreno.gelocal.it/lucca/cronaca/2016/05/23/news/lucca-medievale-fra-corteggi-musici-e-balestrieri-1.13526949)
+* [Successo per i due giorni di Lucca Medievale (lagazzettadilucca)](http://www.lagazzettadilucca.it/index.php/l-evento/2016/06/successo-per-i-due-giorni-di-lucca-medievale/)
+* [Lucca Medievale (comune.lucca.it)](http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/15889)
 
 ### Social
 
