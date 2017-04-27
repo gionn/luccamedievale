@@ -18,6 +18,28 @@ tel: 058432256 - 0584428651
 
 email: [segreteria@promo-terr.it](mailto:segreteria@promo-terr.it)
 
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Lucca",
+      "addressRegion": "LU",
+      "postalCode": "55100",
+      "streetAddress": "Piazza San Francesco"
+    },
+    "name": "Piazza San Francesco"
+  },
+  "name": "Lucca Medievale",
+  "isAccessibleForFree": true,
+  "startDate": "2017-06-24T08:30",
+  "endDate": "2017-06-25T23:30"
+}
+</script>
+
 ### #luccamedievale su Instagram
 
 <!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/a9530d5c2dba5ceda13ab2bce71db594.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
