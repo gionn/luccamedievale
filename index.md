@@ -1,15 +1,21 @@
 ## Lucca Medievale edizione 2017
 
-Stiamo preparando la nuova edizione di Lucca Medievale, se sei un artista o un gruppo di:
+Stiamo preparando la nuova edizione dell'evento Lucca Medievale, se sei un artista o un gruppo di:
 
 * Mangiafuoco
 * Trampolieri
 * Giocoleria
-* Burattini
+* Burattinai
 * Spettacoli a tema medievale
 * Artigiani del ferro, cuoio, etc
+* Espositori
 
 mandaci una email di presentazione a info @ consanpaolino.org
+
+### Instagram
+
+<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/a9530d5c2dba5ceda13ab2bce71db594.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+
 
 ### YouTube playlist
 
