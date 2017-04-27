@@ -34,9 +34,12 @@ email: [segreteria@promo-terr.it](mailto:segreteria@promo-terr.it)
     "name": "Piazza San Francesco"
   },
   "name": "Lucca Medievale",
+  "description": "Evento annuale con mostra mercato, spettacoli di strada, torneo dei balestrieri",
+  "eventStatus": "EventScheduled",
   "isAccessibleForFree": true,
   "startDate": "2017-06-24T08:30",
-  "endDate": "2017-06-25T23:30"
+  "endDate": "2017-06-25T23:30",
+  "url": "http://luccamedievale.it"
 }
 </script>
 
