@@ -2,6 +2,7 @@
 
 Stiamo preparando la nuova edizione dell'evento Lucca Medievale, che si terrà il weekend del 24 e 25 giugno. Se sei un artista o un gruppo di:
 
+* Falconieri
 * Mangiafuoco
 * Trampolieri
 * Giocolieri
