@@ -11,6 +11,10 @@ Stiamo preparando la nuova edizione di Lucca Medievale, se sei un artista o un g
 
 mandaci una email di presentazione a info @ consanpaolino.org
 
+### YouTube playlist
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLGmFjg-_N7COfovMy0z5-9uYcLXp1Tec-&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 ### Links
 
 * [Contrade San Paolino](http://consanpaolino.org)
