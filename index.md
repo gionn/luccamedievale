@@ -1,22 +1,23 @@
-## Lucca Medievale edizione 2017
+# Pronti per Lucca Medievale 2017?
 
-Stiamo preparando la nuova edizione dell'evento Lucca Medievale, che si terrà il weekend del 24 e 25 giugno. Se sei un artista o un gruppo di:
+Stiamo preparando la nuova edizione dell'evento Lucca Medievale, che si terrà il weekend del **24 e 25 giugno**.
+
+Se sei un espositore e vuoi partecipare al mercatino, scarica il seguente <a href="assets/files/lucca-medievale-iscrizione-espositori.pdf">modulo</a>. Reinvialo debitamente compilato e firmato a *segreteria@promo-terr.it*.
+
+Se sei un artista e vuoi esibirti in piazza, scrivici a *segreteria@promo-terr.it* con una breve presentazione delle tue attività, assieme ad eventuale materiale multimediale (video, audio).
+
+Hanno titolo preferenziale gli artisti di queste categorie:
 
 * Falconieri
 * Mangiafuoco
 * Trampolieri
 * Giocolieri
 * Burattinai
-* Artisti di strada
-* Spettacoli a tema medievale
-* Artigiani del ferro, cuoio, impagliatori ecc
-* Espositori
+* Musici
+* Spettacoli itineranti a tema medievale
+* Artigiani del ferro, cuoio, impagliatori e altri mestieri medievali
 
-Contatta la segreteria organizzativa Promo-Terr:
-
-tel: 058432256 - 0584428651 
-
-email: [segreteria@promo-terr.it](mailto:segreteria@promo-terr.it)
+Per qualsiasi domanda puoi scriverci a segreteria@promo-terr.it oppure inviaci un messaggio sui nostri social.
 
 <script type="application/ld+json">
 {
