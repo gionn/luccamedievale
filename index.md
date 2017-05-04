@@ -17,7 +17,7 @@ Hanno titolo preferenziale gli artisti di queste categorie:
 * Spettacoli itineranti a tema medievale
 * Artigiani del ferro, cuoio, impagliatori e altri mestieri medievali
 
-Per qualsiasi domanda puoi scriverci a *[segreteria@promo-terr.it](segreteria@promo-terr.it)* oppure inviaci un messaggio sui nostri social.
+Per qualsiasi domanda puoi scriverci a *[segreteria@promo-terr.it](segreteria@promo-terr.it)* oppure inviaci un messaggio privato sulla nostra [pagina Facebook](https://www.facebook.com/luccamedievale/).
 
 <script type="application/ld+json">
 {
