@@ -2,9 +2,9 @@
 
 Stiamo preparando la nuova edizione dell'evento Lucca Medievale, che si terrà il weekend del **24 e 25 giugno**.
 
-Se sei un espositore e vuoi partecipare al mercatino, scarica il seguente <a href="assets/files/lucca-medievale-iscrizione-espositori.pdf">modulo</a>. Reinvialo debitamente compilato e firmato a *[segreteria@promo-terr.it](segreteria@promo-terr.it)*.
+Se sei un espositore e vuoi partecipare al mercatino, scarica il seguente <a href="assets/files/lucca-medievale-iscrizione-espositori.pdf">modulo</a>. Reinvialo debitamente compilato e firmato a *[segreteria@promo-terr.it](mailto:segreteria@promo-terr.it)*.
 
-Se sei un artista e vuoi esibirti in piazza, scrivici a *[segreteria@promo-terr.it](segreteria@promo-terr.it)* con una breve presentazione delle tue attività, assieme ad eventuale materiale multimediale (video, audio).
+Se sei un artista e vuoi esibirti in piazza, scrivici a *[segreteria@promo-terr.it](mailto:segreteria@promo-terr.it)* con una breve presentazione delle tue attività, assieme ad eventuale materiale multimediale (video, audio).
 
 Hanno titolo preferenziale gli artisti di queste categorie:
 
@@ -17,7 +17,7 @@ Hanno titolo preferenziale gli artisti di queste categorie:
 * Spettacoli itineranti a tema medievale
 * Artigiani del ferro, cuoio, impagliatori e altri mestieri medievali
 
-Per qualsiasi domanda puoi scriverci a *[segreteria@promo-terr.it](segreteria@promo-terr.it)* oppure inviaci un messaggio privato sulla nostra [pagina Facebook](https://www.facebook.com/luccamedievale/).
+Per qualsiasi domanda puoi scriverci a *[segreteria@promo-terr.it](mailto:segreteria@promo-terr.it)* oppure inviaci un messaggio privato sulla nostra [pagina Facebook](https://www.facebook.com/luccamedievale/).
 
 <script type="application/ld+json">
 {
