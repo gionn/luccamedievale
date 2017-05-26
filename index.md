@@ -1,3 +1,9 @@
+# Conto alla rovescia per Lucca Medievale
+
+Siamo a meno di un mese dall'inizio dell'evento, che troverete su Facebook [Lucca Medievale 2017](https://www.facebook.com/events/194977994355060/).
+
+![Programma provvisorio](/assets/images/programma_provvisorio.jpg)
+
 # Pronti per Lucca Medievale 2017?
 
 Stiamo preparando la nuova edizione dell'evento Lucca Medievale, che si terrà il weekend del **24 e 25 giugno**.
