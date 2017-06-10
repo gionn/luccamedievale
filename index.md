@@ -1,3 +1,7 @@
+# Lucca Medievale 2017
+
+![Programma definitivo](/assets/images/programma_definitivo.jpg)
+
 # Conto alla rovescia per Lucca Medievale
 
 Siamo a meno di un mese dall'inizio dell'evento, che troverete su Facebook [Lucca Medievale 2017](https://www.facebook.com/events/194977994355060/).
