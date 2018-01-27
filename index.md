@@ -1,48 +1,28 @@
-# Lucca Medievale 2017
+# Lucca Medievale 2018
 
-Evento Facebook: [Lucca Medievale 2017](https://www.facebook.com/events/194977994355060/)
+Stiamo preparando la nuova edizione dell'evento Lucca Medievale, che si terrà il 1, 2, 3 Giugno nell'area Porta San Donato - Ex Cavallerizza.
 
-![Programma definitivo](/assets/images/programma_definitivo.jpg)
+L'organizzazione non è ancora partita, ma se sei un espositore e vuoi partecipare al mercatino, puoi già inviare una email a **[segreteria@promo-terr.it](mailto:segreteria@promo-terr.it)**
 
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Event",
-  "location": {
-    "@type": "Place",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Lucca",
-      "addressRegion": "LU",
-      "postalCode": "55100",
-      "streetAddress": "Piazza San Francesco"
-    },
-    "name": "Piazza San Francesco"
-  },
-  "name": "Lucca Medievale",
-  "description": "Evento annuale con mostra mercato, spettacoli di strada, torneo dei balestrieri",
-  "eventStatus": "EventScheduled",
-  "isAccessibleForFree": true,
-  "startDate": "2017-06-24T08:30",
-  "endDate": "2017-06-25T23:30",
-  "url": "http://luccamedievale.it"
-}
-</script>
+Hanno titolo preferenziale gli artisti di queste categorie:
 
-### Social
+* Falconieri
+* Mangiafuoco
+* Trampolieri
+* Giocolieri
+* Burattinai
+* Musici
+* Spettacoli itineranti a tema medievale
+* Artigiani del ferro, cuoio, impagliatori e altri mestieri medievali
 
-Usa l'hashtag **#luccamedievale** per pubblicare i tuoi contenuti!
+## Contatti
 
-* [Facebook](https://www.facebook.com/luccamedievale/)
-* [Instagram](https://www.instagram.com/explore/tags/luccamedievale/)
-* [YouTube](https://www.youtube.com/playlist?list=PLGmFjg-_N7COfovMy0z5-9uYcLXp1Tec-)
-* [Evento Facebook edizione 2016](https://www.facebook.com/events/1730372070582555/)
+Per qualsiasi domanda puoi scriverci tramite:
 
-### Lucca Medievale su YouTube
+* [segreteria@promo-terr.it](mailto:segreteria@promo-terr.it)
+* [messaggio facebook](https://www.facebook.com/luccamedievale/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLGmFjg-_N7COfovMy0z5-9uYcLXp1Tec-&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-### Newsletter
+## Newsletter
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
@@ -65,9 +45,44 @@ Usa l'hashtag **#luccamedievale** per pubblicare i tuoi contenuti!
 
 <!--End mc_embed_signup-->
 
-### Rassegna stampa edizione 2016
+## Passate edizioni
 
-* [Un tuffo nel medioevo (luccaindiretta)](http://www.luccaindiretta.it/cultura-e-spettacoli/item/71635-lucca-un-tuffo-nel-medioevo-foto.html)
-* [Lucca medievale fra corteggi, musici e balestrieri (iltirreno)](http://iltirreno.gelocal.it/lucca/cronaca/2016/05/23/news/lucca-medievale-fra-corteggi-musici-e-balestrieri-1.13526949)
-* [Successo per i due giorni di Lucca Medievale (lagazzettadilucca)](http://www.lagazzettadilucca.it/index.php/l-evento/2016/06/successo-per-i-due-giorni-di-lucca-medievale/)
-* [Lucca Medievale (comune.lucca.it)](http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/15889)
+* [2017](2017.md)
+* [2016](2016.md)
+
+## Social
+
+Usa l'hashtag #luccamedievale per pubblicare i tuoi contenuti!
+
+* [Facebook](https://www.facebook.com/luccamedievale/)
+* [Instagram](https://www.instagram.com/explore/tags/luccamedievale/)
+* [YouTube](https://www.youtube.com/playlist?list=PLGmFjg-_N7COfovMy0z5-9uYcLXp1Tec-)
+
+## Lucca Medievale su YouTube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLGmFjg-_N7COfovMy0z5-9uYcLXp1Tec-&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Lucca",
+      "addressRegion": "LU",
+      "postalCode": "55100",
+      "streetAddress": "Porta San Donato"
+    },
+    "name": "Porta San Donato"
+  },
+  "name": "Lucca Medievale",
+  "description": "Evento annuale con mostra mercato, spettacoli di strada, torneo dei balestrieri",
+  "eventStatus": "EventScheduled",
+  "isAccessibleForFree": true,
+  "startDate": "2018-06-01T08:30",
+  "endDate": "2018-06-3T23:30",
+  "url": "http://luccamedievale.it"
+}
+</script>
