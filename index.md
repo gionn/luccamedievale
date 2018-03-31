@@ -1,19 +1,31 @@
+---
+layout: default
+---
 # Lucca Medievale 2018
 
-Stiamo preparando la nuova edizione dell'evento Lucca Medievale, che si terrà il 1, 2, 3 Giugno nell'area Porta San Donato - Ex Cavallerizza.
+Stiamo preparando la nuova edizione dell'evento Lucca Medievale, che si terrà il 2-3 Giugno 2018 nell'area Porta San Donato - Ex Cavallerizza (vicino a Pizzale Verdi).
 
-L'organizzazione non è ancora partita, ma se sei un espositore e vuoi partecipare al mercatino, puoi già inviare una email a **[segreteria@promo-terr.it](mailto:segreteria@promo-terr.it)**
+### Espositori
 
-Hanno titolo preferenziale gli artisti di queste categorie:
+Se sei un espositore e vuoi partecipare al mercatino, [scarica la scheda e rimandala compilata](/assets/images/2018/modulo-espositori.jpg) a **[segreteria@promo-terr.it](mailto:segreteria@promo-terr.it)**.
+
+
+### Artisti
+
+Per la parte artistica, hanno titolo preferenziale gli artisti di queste categorie:
 
 * Falconieri
 * Mangiafuoco
 * Trampolieri
 * Giocolieri
+* Saltimbanchi
 * Burattinai
 * Musici
+* Artisti di strada a tema medievale (no luci o coreografie moderne)
 * Spettacoli itineranti a tema medievale
 * Artigiani del ferro, cuoio, impagliatori e altri mestieri medievali
+
+Utilizza uno dei metodi sottostanti per metterti in contatto con noi.
 
 ## Contatti
 
@@ -81,7 +93,7 @@ Usa l'hashtag #luccamedievale per pubblicare i tuoi contenuti!
   "description": "Evento annuale con mostra mercato, spettacoli di strada, torneo dei balestrieri",
   "eventStatus": "EventScheduled",
   "isAccessibleForFree": true,
-  "startDate": "2018-06-01T08:30",
+  "startDate": "2018-06-02T08:30",
   "endDate": "2018-06-3T23:30",
   "url": "http://luccamedievale.it"
 }
