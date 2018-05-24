@@ -3,7 +3,14 @@ layout: default
 ---
 # Lucca Medievale 2018
 
-Stiamo preparando la nuova edizione dell'evento Lucca Medievale, che si terrà il 2-3 Giugno 2018 nell'area di Piazzale Verdi (Giardini del Museo della Zecca).
+La preparazione dell'evento Lucca Medievale è ormai agli sgoccioli, che si terrà
+il 2-3 Giugno 2018 nell'area di Piazzale Verdi (Giardini del Museo della Zecca).
+
+## Programma definitivo
+
+![programma lucca medievale sabato 2 giugno](/assets/images/2018/programma_2018_sabato.jpg)
+
+![programma lucca medievale domenica 3 giugno](/assets/images/2018/programma_2018_domenica.jpg)
 
 ### Presentazione della manifestazione
 
@@ -97,16 +104,16 @@ Usa l'hashtag #luccamedievale per pubblicare i tuoi contenuti!
       "addressLocality": "Lucca",
       "addressRegion": "LU",
       "postalCode": "55100",
-      "streetAddress": "Porta San Donato"
+      "streetAddress": "Piazzale Verdi"
     },
-    "name": "Porta San Donato"
+    "name": "Giardini del Museo della Zecca"
   },
   "name": "Lucca Medievale",
   "description": "Evento annuale con mostra mercato, spettacoli di strada, torneo dei balestrieri",
   "eventStatus": "EventScheduled",
   "isAccessibleForFree": true,
-  "startDate": "2018-06-02T08:30",
-  "endDate": "2018-06-3T23:30",
+  "startDate": "2018-06-02T10:30",
+  "endDate": "2018-06-3T23:00",
   "url": "http://luccamedievale.it"
 }
 </script>
