@@ -8,6 +8,8 @@ il 2-3 Giugno 2018 nell'area di Piazzale Verdi (Giardini del Museo della Zecca).
 
 ## Programma definitivo
 
+For the **English-speaking** folks, [download this PDF](/assets/files/2018/Lucca-Medievale-2018-english.pdf)
+
 ![programma lucca medievale sabato 2 giugno](/assets/images/2018/programma_2018_sabato.jpg)
 
 ![programma lucca medievale domenica 3 giugno](/assets/images/2018/programma_2018_domenica.jpg)
