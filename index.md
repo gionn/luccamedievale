@@ -14,7 +14,11 @@ For the **English-speaking** folks, [download this PDF](/assets/files/2018/Lucca
 
 ![programma lucca medievale domenica 3 giugno](/assets/images/2018/programma_2018_domenica.jpg)
 
-### Presentazione della manifestazione
+## Menù del Desco (area ristoro)
+
+![menu gastronomia area ristoro](/assets/images/2018/menu_lucca_medievale_2018.jpg)
+
+### Presentazione della manifestazion
 
 Abbiamo il piacere d'invitarvi mercoledì 23 Maggio 2018 alle ore 11.00 presso
 l'auditorium della Bibloteca Agorà di Lucca, alla conferenza stampa di
