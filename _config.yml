@@ -1,14 +1,14 @@
 title: Lucca Medievale
-email: segreteria@promo-terr.it
+email: consanpaolino@gmail.com
 description: Evento annuale con mostra mercato, spettacoli di strada, torneo dei balestrieri
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: UA-107557-21
 credits: |
-  Promo-Terr<br/>
-  Via Verdi 121<br/>
-  55049 Viareggio<br/>
-  segreteria@promo-terr.it
+  Associazione Contrade San Paolino<br/>
+  Sortita Porta San Pietro, 1/3<br/>
+  55100 Lucca<br/>
+  consanpaolino@gmail.com
 markdown: kramdown
 theme: jekyll-theme-cayman
 plugins:
