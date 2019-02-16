@@ -1,8 +1,44 @@
 ---
 ---
-
 @import "{{ site.theme }}";
 
 li {
     padding-top: 12px;
+}
+
+.project-name {
+    font-family: 'MedievalSharp';
+    color: #ffa300;
+    text-shadow:
+    -1px -1px 0 #572f25,
+    1px -1px 0 #572f25,
+    -1px 1px 0 #572f25,
+    1px 1px 0 #572f25;
+}
+
+.project-tagline {
+    opacity: 0.8;
+    text-shadow:
+    -1px -1px 0 #572f25,
+    1px -1px 0 #572f25,
+    -1px 1px 0 #572f25,
+    1px 1px 0 #572f25;
+}
+
+@media screen and (min-width: 64em) {
+    .project-name {
+        font-size: 6em;
+    }
+    
+    .project-tagline {
+        font-size: 2em;
+    }
+}
+
+
+.page-header {
+    background-color: #000;
+    background-image: url(/assets/images/lucca-medievale-header.jpg);
+    background-position: center;
+    background-repeat: repeat;
 }
