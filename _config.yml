@@ -5,11 +5,18 @@ description: |
   spettacoli di strada, torneo dei balestrieri e scontri fra uomini d'arme
 baseurl: ""
 url: "https://luccamedievale.it"
+logo: /assets/images/lucca-medievale-logo.jpg
+lang: it_IT
 google_analytics: UA-107557-21
 social:
   name: Lucca Medievale
   links:
+    - https://twitter.com/consanpaolino
+    - https://www.facebook.com/consanpaolino/
     - https://www.facebook.com/luccamedievale/
+    - https://www.instagram.com/consanpaolino/
+    - https://plus.google.com/+ConsanpaolinoOrg
+    - https://t.me/consanpaolino
 credits: |
   Associazione Contrade San Paolino<br/>
   Sortita Porta San Pietro, 1/3<br/>
