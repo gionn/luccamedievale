@@ -9,12 +9,15 @@ li {
 .project-name {
     font-size: 4rem;
     font-family: 'MedievalSharp';
-    color: #ffa300;
     text-shadow:
     -1px -1px 0 #572f25,
     1px -1px 0 #572f25,
     -1px 1px 0 #572f25,
     1px 1px 0 #572f25;
+}
+
+.project-name a {
+    color: #ffa300 !important;
 }
 
 .project-emoji {
