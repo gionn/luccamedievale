@@ -26,9 +26,9 @@ Ti ricontatteremo via email, whatsapp o telefono.
 
 ## Informazioni generali
 
-Offriamo piazzole di 3x3 metri, servizio di vigilanza notturno per il sabato, a
-90 € oppure 140 € per 6x3 metri. L’area è coperta da illuminazione pubblica ma è
-consigliata illuminazione autonoma per le ore serali.
+Offriamo piazzole di 3x3 metri con servizio di vigilanza notturno per il sabato.
+L’area è coperta da illuminazione pubblica ma è consigliata illuminazione
+autonoma per le ore serali.
 
 Sabato mattina allestimento dalle ore 7.30, apertura al pubblico dalle ore
 10.30, orario continuato fino alla mezzanotte. Domenica apertura al pubblico
