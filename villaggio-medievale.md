@@ -11,9 +11,9 @@ partecipare con il proprio banco a Lucca Medievale.
 
 * Non è un mercato per professionisti, NO venditori di prodotti industriali e NO generi alimentari
   * Devi essere titolare di un [Tesserino per
-    Hobbisti](http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/4579)
-    valido emesso dal Comune di Lucca o del tuo comune di residenza se sei
-    residente in Toscana..
+    Hobbisti (Regione Toscana)](http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/4579)
+    in corso di validità, emesso dal Comune di Lucca o del tuo comune di residenza se sei toscano.
+  * NON sono validi i Tesserini per Hobbisti emessi in altre regioni.
 * Il banco DEVE essere composto di materiale consono alla manifestazione, come
   legno, cotone/juta, (NO stand in alluminio)
 * I manufatti devono essere a tema medievale, realizzati con materiali come
@@ -22,9 +22,9 @@ partecipare con il proprio banco a Lucca Medievale.
 
 ## Richiesta iscrizione
 
-Se hai già compilato il modulo per Lucca Medievale 2019 non è necessario
-reinviarlo, a meno che i tuoi dati di contatto non siano variati nel frattempo.
-Ti ricontatteremo via email entro febbraio.
+Se hai già partecipato ad una passata edizione di Lucca Medievale, non è
+necessario compilare il modulo, sarete ricontattati nel mese di febbraio dagli
+organizzatori.
 
 [✍️ Compila il modulo di richiesta partecipazione come espositore](https://docs.google.com/forms/d/e/1FAIpQLSekA-gAjpFNArQz9EbZujL9SdEOghzfo4QN4H7Jxq_mAeGUCg/viewform?usp=sf_link)
 
