@@ -9,11 +9,11 @@ partecipare con il proprio banco a Lucca Medievale.
 
 ## Requisiti per partecipare
 
-* Non è un mercato per professionisti, NO venditori di prodotti industriali e NO generi alimentari
-  * Devi essere titolare di un [Tesserino per
+* NO venditori di prodotti industriali e NO generi alimentari
+  * Se sei un privato: devi essere titolare di un [Tesserino per
     Hobbisti (Regione Toscana)](http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/4579)
     in corso di validità, emesso dal Comune di Lucca o del tuo comune di residenza se sei toscano.
-  * NON sono validi i Tesserini per Hobbisti emessi in altre regioni.
+    NON sono validi i Tesserini per Hobbisti emessi in altre regioni.
 * Il banco DEVE essere composto di materiale consono alla manifestazione, come
   legno, cotone/juta, (NO stand in alluminio)
 * I manufatti devono essere a tema medievale, realizzati con materiali come
