@@ -23,7 +23,7 @@ partecipare con il proprio banco a Lucca Medievale.
 ## Richiesta iscrizione
 
 Se hai già partecipato ad una passata edizione di Lucca Medievale, non è
-necessario compilare il modulo, sarete ricontattati nel mese di febbraio dagli
+necessario compilare il modulo, sarai ricontattato nel mese di febbraio dagli
 organizzatori.
 
 [✍️ Compila il modulo di richiesta partecipazione come espositore](https://docs.google.com/forms/d/e/1FAIpQLSekA-gAjpFNArQz9EbZujL9SdEOghzfo4QN4H7Jxq_mAeGUCg/viewform?usp=sf_link)
