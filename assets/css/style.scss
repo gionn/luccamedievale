@@ -15,6 +15,7 @@ li {
     -1px 1px 0 #572f25,
     1px 1px 0 #572f25;
     padding-top: 0.5em;
+    display: none;
 }
 
 .project-name a {
@@ -26,6 +27,7 @@ li {
 }
 
 .project-tagline {
+    display: none;
     font-size: 1.5rem;
     opacity: 0.8;
     text-shadow:
@@ -47,10 +49,11 @@ li {
 
 .page-header {
     background-color: #000;
-    background-image: url(/assets/images/lucca-medievale-header.jpg);
+    background-image: url(/assets/images/lucca-medievale-2024.webp);
     background-position: center;
     background-repeat: repeat;
     background-size: cover;
+    min-height: 40rem;
 }
 
 .myButton {
