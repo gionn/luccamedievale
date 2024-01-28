@@ -13,6 +13,6 @@ preferenziale artisti e associazioni in queste categorie:
 * Rievocatori medievali, arcieria, scherma storica
 
 Se hai già compilato il modulo per la scorsa edizione di Lucca Medievale abbiamo ancora tutti i
-tuoi dati, ma puoi riscriverci una email di presentazione a *consanpaolino@gmail.com*
+tuoi dati, ma puoi riscriverci una email di presentazione a *luccamedievale@consanpaolino.org*
 
 [✍️ Compila il modulo di richiesta partecipazione come artista](https://docs.google.com/forms/d/e/1FAIpQLSciLLnykoVAveRwBKi1O95qLzUX-OdXvzlxD3xuZbaiwJhuMA/viewform?usp=sf_link)

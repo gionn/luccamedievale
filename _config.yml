@@ -1,5 +1,5 @@
 title: Lucca Medievale
-email: consanpaolino@gmail.com
+email: luccamedievale@consanpaolino.org
 description: |
   Festa medievale con il villaggio degli artigiani,
   spettacoli di strada, torneo dei balestrieri e scontri fra uomini d'arme
@@ -21,7 +21,7 @@ credits: |
   Associazione Contrade San Paolino<br/>
   Casermetta San Paolino, Viale delle Mura Urbane<br/>
   55100 Lucca<br/>
-  consanpaolino@gmail.com
+  luccamedievale@consanpaolino.org
 markdown: kramdown
 theme: jekyll-theme-cayman
 plugins:
