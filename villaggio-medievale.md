@@ -28,7 +28,8 @@ organizzatori.
 
 [✍️ Compila il modulo di richiesta partecipazione come espositore](https://docs.google.com/forms/d/e/1FAIpQLSekA-gAjpFNArQz9EbZujL9SdEOghzfo4QN4H7Jxq_mAeGUCg/viewform?usp=sf_link)
 
-E' prevista una quota di iscrizione che viene decisa all'inizio di ogni anno.
+E' prevista una quota di iscrizione che viene decisa all'inizio di ogni anno e
+che sarà comunicata previa verifica di conformità ai sopracitati requisiti.
 
 ## Informazioni generali
 
