@@ -97,6 +97,13 @@ li {
     min-height: 25rem;
 }
 
+@media screen and (max-width: 96em) {
+    .page-header {
+      background-image: url("/assets/images/lucca-medievale-2024.webp");
+      min-height: 40rem;
+    }
+  }
+
 body {
     background-color: #fcf8e6;
 }
