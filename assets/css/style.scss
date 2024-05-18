@@ -108,7 +108,10 @@ body {
     background-color: #fcf8e6;
 }
 
-.main-content h1,
+.main-content h1 {
+    display: none;
+}
+
 .main-content h2 {
   color: #c5432f;
 }
