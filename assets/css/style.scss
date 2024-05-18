@@ -47,15 +47,6 @@ li {
     }
 }
 
-.page-header {
-    background-color: #000;
-    background-image: url(/assets/images/lucca-medievale-2024.webp);
-    background-position: center;
-    background-repeat: repeat;
-    background-size: cover;
-    min-height: 40rem;
-}
-
 .myButton {
     -moz-box-shadow:inset 0px 1px 0px 0px #f9eca0;
     -webkit-box-shadow:inset 0px 1px 0px 0px #f9eca0;
@@ -95,4 +86,42 @@ li {
 .myButton:active {
     position:relative;
     top:1px;
+}
+
+.page-header {
+    background-color: #fcf8e6;
+    background-image: url(/assets/images/LM2024-banner-v2.webp);
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    min-height: 25rem;
+}
+
+@media screen and (max-width: 96em) {
+    .page-header {
+      background-image: url("/assets/images/lucca-medievale-2024.webp");
+      min-height: 40rem;
+    }
+  }
+
+body {
+    background-color: #fcf8e6;
+}
+
+.main-content h1 {
+    display: none;
+}
+
+.main-content h2 {
+  color: #c5432f;
+}
+
+.main-content h3,
+.main-content h4 {
+  color: #e07a39;
+}
+
+.main-content h5,
+.main-content h6 {
+  color: #638f70;
 }
