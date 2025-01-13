@@ -12,7 +12,6 @@ Per la parte artistica, di spettacolo e di intrattenimento, hanno titolo prefere
 
 ## Informazioni generali
 
-* Offriamo piazzole di 3x3 metri e 6x3 metri con servizio di vigilanza notturno per il sabato.
 * L’area è coperta da illuminazione pubblica ma è consigliata illuminazione autonoma per le ore serali.
 * Non possiamo fornire punti di allacciamento alla rete elettrica, per cui se necessario dovrete organizzarvi in maniera indipendente.
 * Non possiamo fornire banchi, sedie, suppellettili, attrezzi
