@@ -90,7 +90,7 @@ li {
 
 .page-header {
     background-color: #fcf8e6;
-    background-image: url(/assets/images/LM2024-banner-v2.webp);
+    background-image: url(/assets/images/lm25-banner-landscape.webp);
     background-position: center;
     background-repeat: repeat;
     background-size: cover;
@@ -99,7 +99,7 @@ li {
 
 @media screen and (max-width: 96em) {
     .page-header {
-      background-image: url("/assets/images/lucca-medievale-2024.webp");
+      background-image: url("/assets/images/lm25-banner-portrait.webp");
       min-height: 40rem;
     }
   }
