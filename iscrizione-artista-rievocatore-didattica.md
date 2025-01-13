@@ -21,4 +21,6 @@ Per la parte artistica, di spettacolo e di intrattenimento, hanno titolo prefere
 
 [✍️ Compila il modulo di richiesta partecipazione come Artista/Rievocatore/Didattica](http://tiny.cc/lm25_art-rie-did)
 
+Dopo che avrete inviato la vostra iscrizione riceverete un'email all'indirizzo che avete inserito nel modulo, contenente una copia delle vostre risposte e che vi permetterà di modificare le risposte inviate e di annullare l'iscrizione in seguito.
+
 [Torna indietro alla Home Page](2025.md)

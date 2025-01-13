@@ -32,4 +32,6 @@ Per entrambe le giornate, è prevista una piccola quota d'iscrizione, il cui imp
 
 [✍️ Compila il modulo di richiesta partecipazione come Espositore/Artigiano](http://tiny.cc/lm25_esp-art)
 
+Dopo che avrete inviato la vostra iscrizione riceverete un'email all'indirizzo che avete inserito nel modulo, contenente una copia delle vostre risposte e che vi permetterà di modificare le risposte inviate e di annullare l'iscrizione in seguito.
+
 [Torna indietro alla Home Page](2025.md)
