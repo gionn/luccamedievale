@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Partecipa a Lucca Medievale come Artista / Rievocatore / Didattica
+# Partecipa-a-Lucca-Medievale-come-Artista-/-Rievocatore-/-Didattica
+
+## Partecipa a Lucca Medievale come Artista / Rievocatore / Didattica
 
 Per la parte artistica, di spettacolo e di intrattenimento, hanno titolo preferenziale artisti e associazioni in queste categorie:
 

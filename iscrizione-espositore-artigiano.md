@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Partecipa al villaggio medievale degli artigiani
+# Partecipa-a-Lucca-Medievale-come-Espositore-/-Artigiano
+
+## Partecipa a Lucca Medievale come Espositore / Artigiano
 
 Ricerchiamo espositori e artigiani che creano opere del proprio ingegno e che vogliono partecipare con il proprio banco a Lucca Medievale: artigiani del ferro, del cuoio, del rame, liutai, cerai, impagliatori ed altri antichi mestieri.
 
