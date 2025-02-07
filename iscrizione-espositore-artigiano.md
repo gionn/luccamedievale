@@ -30,10 +30,15 @@ Ricerchiamo espositori e artigiani che creano opere del proprio ingegno e che vo
 
 ## Richiesta di partecipazione
 
-Per entrambe le giornate, è prevista una piccola quota d'iscrizione, il cui importo dipende dalla piazzola necessaria. Tale quota viene stabilita all'inizio di ogni anno e comunicata previa verifica della conformità ai requisiti sopra citati.
+[✍️ Compila il modulo di richiesta per partecipare come Espositore/Artigiano](http://tiny.cc/lm25_esp-art)
 
-[✍️ Compila il modulo di richiesta partecipazione come Espositore/Artigiano](http://tiny.cc/lm25_esp-art)
+Dopo l'invio del modulo riceverete un'email all'indirizzo che avete inserito nel modulo, contenente una copia delle vostre risposte e che vi permetterà di modificare le risposte inviate (e/o di annullare l'iscrizione in seguito).
 
-Dopo che avrete inviato la vostra iscrizione riceverete un'email all'indirizzo che avete inserito nel modulo, contenente una copia delle vostre risposte e che vi permetterà di modificare le risposte inviate e di annullare l'iscrizione in seguito.
+Successivamente:
+
+* si farà verifica della conformità ai requisiti sopra citati
+* e saranno valutate la bontà e qualità dei vostri prodotti
+
+Se saremo interessati sarete ricontattati in seguito per l'accesso a Lucca Medievale: a conferma dell'iscrizione, per entrambe le giornate, è prevista una piccola quota d'iscrizione stabilita all'inizio di ogni anno, il cui importo dipende dalla piazzola necessaria.
 
 [Torna indietro alla Home Page](2025.md)
