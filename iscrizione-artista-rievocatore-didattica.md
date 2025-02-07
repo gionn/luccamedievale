@@ -24,4 +24,7 @@ Per la parte artistica, di spettacolo e di intrattenimento, hanno titolo prefere
 
 Dopo che avrete inviato la vostra iscrizione riceverete un'email all'indirizzo che avete inserito nel modulo, contenente una copia delle vostre risposte e che vi permetterà di modificare le risposte inviate e di annullare l'iscrizione in seguito.
 
+Successivamente saranno valutate la bontà e la qualità delle vostre performances e/o attività didattiche.
+Se saremo interessati sarete ricontattati in seguito per l'accesso a Lucca Medievale.
+
 [Torna indietro alla Home Page](2025.md)
