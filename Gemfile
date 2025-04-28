@@ -3,4 +3,4 @@ gem "github-pages", group: :jekyll_plugins
 gem "jekyll-theme-cayman"
 
 # Validate HTML
-gem "html-proofer", '~>4.2.0'
+gem "html-proofer", '~>4.4.3'
